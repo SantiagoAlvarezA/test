@@ -1,0 +1,8 @@
+    Options +FollowSymLinks  
+    RewriteEngine On  
+
+    RewriteCond %{SCRIPT_FILENAME} !-d  
+    RewriteCond %{SCRIPT_FILENAME} !-f  
+
+
+    RewriteRule ^user/([0-9a-zA-Z]+)$ Controller/UserController/RoutesUser.php?u=$1 [NC,L]
