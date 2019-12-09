@@ -26,4 +26,4 @@
 ![alt text](https://github.com/SantiagoAlvarezA/test/blob/master/CAPTURAS/Captura6.PNG)
 
 
-###  La base de datos esta disponible en la carpeta SQL EL PROYECTO SE REALIZO CON PHPMYADMIN
+###  La base de datos esta disponible en la carpeta SQL DEL PROYECTO SE REALIZO CON PHPMYADMIN
